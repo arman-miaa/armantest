@@ -22,7 +22,7 @@ const HomePage = () => {
               Fast Setup
             </h3>
             <p className="text-gray-600 dark:text-gray-400">
-              Get your VPS running in minutes with our automated setup process
+              Get your VPS running in minutes with our automated setup process!
             </p>
           </div>
 
@@ -32,7 +32,7 @@ const HomePage = () => {
               Secure
             </h3>
             <p className="text-gray-600 dark:text-gray-400">
-              Enterprise-grade security to protect your applications and data
+              Enterprise-grade security to protect your applications and data.
             </p>
           </div>
 
